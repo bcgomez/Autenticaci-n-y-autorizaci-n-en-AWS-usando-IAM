@@ -1,2 +1,2 @@
-# Autenticacion-y-autorizacion-en-AWS-usando-IAM
+# Reto-1
 Configuración de credenciales y control de acceso con IAM para S3
